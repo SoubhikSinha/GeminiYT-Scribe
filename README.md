@@ -63,5 +63,4 @@ streamlit run app.py
 <br>
 
 ### **7. Play Around !**
-Explore the capabilities of the **YouTube Summarizer with Gemini Pro** and experience the power of Large Language Models in action.  
-Just paste any YouTube video link, and let the app fetch the transcript, generate a concise summary, and present key takeaways—automatically. All of this happens in real time through an intuitive Streamlit interface, combining transcript parsing and Google Gemini’s advanced summarization in one seamless flow.
+Explore the capabilities of the **YouTube Summarizer with Gemini Pro** and experience the power of Large Language Models in action. Just paste any YouTube video link, and let the app fetch the transcript, generate a concise summary, and present key takeaways—automatically. All of this happens in real time through an intuitive Streamlit interface, combining transcript parsing and Google Gemini’s advanced summarization in one seamless flow.
